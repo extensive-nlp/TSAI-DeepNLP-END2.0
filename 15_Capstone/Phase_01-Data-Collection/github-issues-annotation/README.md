@@ -7,7 +7,7 @@ I created an annotation tool to choose the correct comment (solution) for each i
 Install the dependencies
 
 ```shell
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 create a file `API_KEYS.py` with the following content:
